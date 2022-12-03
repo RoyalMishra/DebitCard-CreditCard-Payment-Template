@@ -6,6 +6,9 @@ Please Mention Credit : @ github.com/royalmishra
 ![](https://github.com/RoyalMishra/Templates/blob/main/Royal.gif)
 
 
+![](https://github.com/RoyalMishra/Templates/blob/main/Royal_Template.mp4)
+
+
 
 Front Preview :
 
