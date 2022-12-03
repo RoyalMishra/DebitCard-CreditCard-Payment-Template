@@ -4,6 +4,7 @@ Just 🍴 Fork and Enjoy:  😊
 Please Mention Credit : @ github.com/royalmishra
 
 Front Preview :
+
 Rupay:
 ![image](https://user-images.githubusercontent.com/70006481/205445874-2bcba7cc-2e6d-4ba8-b5cd-2b486f1475e1.png)
 
@@ -15,6 +16,7 @@ MasterCard:
 
 
 Back Side preview :
+
 Rupay:
 ![image](https://user-images.githubusercontent.com/70006481/205445935-6bbee582-4687-417e-9f86-4d50a665df1b.png)
 
