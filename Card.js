@@ -1,37 +1,37 @@
-// 4: VISA, 51 -> 55: MasterCard, 36-38-39: DinersClub, 34-37: American Express, 65: Discover, 5019: dankort
+//Hints for the Validation :--> 6:Rupay, 4: VISA, 51 -> 55: MasterCard, 36-38-39: DinersClub, 34-37: American Express, 65: Discover, 5019: dankort
 
 
 $(function(){
   
   var cards = [
     {
-    nome: "mastercard",
-    colore: "#0061A8",
+    name: "mastercard",
+    color: "#0061A8",
     src: "https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png"
     
   }, {
-    nome: "visa",
-    colore: "#E2CB38",
+    name: "visa",
+    color: "#E2CB38",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Visa_Inc._logo.svg/2000px-Visa_Inc._logo.svg.png"
   }, {
-    nome: "dinersclub",
-    colore: "#888",
+    name: "dinersclub",
+    color: "#888",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Diners_Club_Logo3.svg/1920px-Diners_Club_Logo3.svg.png"
   }, {
-    nome: "americanExpress",
-    colore: "#108168",
+    name: "americanExpress",
+    color: "#108168",
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/American_Express_logo.svg/600px-American_Express_logo.svg.png"
   }, {
-    nome: "discover",
-    colore: "#86B8CF",
+    name: "discover",
+    color: "#86B8CF",
     src: "https://lendedu.com/wp-content/uploads/2016/03/discover-it-for-students-credit-card.jpg"
   }, {
-    nome: "dankort",
-    colore: "#0061A8",
+    name: "dankort",
+    color: "#0061A8",
     src: "https://upload.wikimedia.org/wikipedia/commons/5/51/Dankort_logo.png"
   },{
-    nome: "Rupay",
-    colore: "#0061A8",
+    name: "Rupay",
+    color: "#23B672",
     src: "https://upload.wikimedia.org/wikipedia/commons/0/0f/RuPay-Logo.png"
   }];
   
@@ -84,7 +84,7 @@ $(function(){
     }
     
     if(selected_card != -1){
-      html.setAttribute("style", "--card-color: " + cards[selected_card].colore);  
+      html.setAttribute("style", "--card-color: " + cards[selected_card].color);  
       $(".bankid").attr("src", cards[selected_card].src).show();
     }else{
       html.setAttribute("style", "--card-color: #cecece");
@@ -166,3 +166,5 @@ $(function(){
     $(".date_value").css("color", "white");
   });
 });
+
+/* --> follow: github.com/royalmishra */
