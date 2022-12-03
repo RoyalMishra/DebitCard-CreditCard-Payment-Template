@@ -3,14 +3,7 @@ Hi, Created this template with lots of 🧑‍💻 effort and 💗 affection it 
 Just 🍴 Fork and Enjoy:  😊
 Please Mention Credit : @ github.com/royalmishra
 
-![](https://github.com/RoyalMishra/Templates/blob/main/Royal.gif)
-
-
-
 https://user-images.githubusercontent.com/70006481/205450659-45f430b2-f050-4b51-bfcd-1a4df7e827d1.mp4
-
-
-
 
 
 Front Preview :
