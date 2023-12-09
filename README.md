@@ -1,7 +1,7 @@
 # DebitCard Payment Template
 Hi, Created this template with lots of 🧑‍💻 effort and 💗 affection it can be used with any of the web-based 💳 DebitCard payment 🪙 eg: Rupay, Visa, MasterCard, AmericanExpress, Discover and many more.
 Just 🍴 Fork and Enjoy:  😊
-Please Mention Credit : @ github.com/royalmishra
+Please Mention Credit :   @ github.com/royalmishra
 
 https://user-images.githubusercontent.com/70006481/205450659-45f430b2-f050-4b51-bfcd-1a4df7e827d1.mp4
 
